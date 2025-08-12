@@ -33,6 +33,7 @@ Run the script:
 fa, pl, pt, ro, ru, es, sv, ta, te, tr, uk, vi)
 
 ## Example Usage:
+~~~
 Enter The Language Code: es
 🎙️ Recording for 5 seconds...
 ✅ Recording complete!
@@ -40,7 +41,7 @@ Enter The Language Code: es
 📝 Transcribed text: Hello, how are you?
 🌍 Translating to es...
 🗣️ Translated text: Hola, ¿cómo estás?
-
+~~~
 
 Notes: 
 - The script suppresses a known warning about FP16 not supported on CPU by Whisper.
